@@ -1,4 +1,4 @@
-// ESTA BOSTA NÃO ESTÁ FUNCIONANDO!!!!!!!
+//NÃO ESTÁ FUNCIONANDO!!!!!!!
 
 
 
